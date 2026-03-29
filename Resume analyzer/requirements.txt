@@ -1,0 +1,6 @@
+pdf2image
+pdfplumber
+pytesseract
+pyhton-dotenv
+streamlit
+google.generativeai
